@@ -8,7 +8,7 @@ A CSS framework built for even faster development. Weild the power of CSS Grid i
 
 ### CDN Link
 
-`https://cdn.jsdelivr.net/npm/outgrid-beta@0.1.0/outgrid-v0.1.0.css`
+`https://cdn.jsdelivr.net/npm/outgrid-beta@0.1.1/outgrid.css`
 
 ### NPM
 
@@ -16,7 +16,7 @@ A CSS framework built for even faster development. Weild the power of CSS Grid i
 
 #### Import in your HTML file using :
 
-`<link rel="stylesheet" href="./node_modules/outgrid-beta/outgrid-v0.1.0.css">`
+`<link rel="stylesheet" href="./node_modules/outgrid-beta/outgrid.css">`
 
 ---
 
