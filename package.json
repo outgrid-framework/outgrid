@@ -1,0 +1,24 @@
+{
+  "name": "outgrid-beta",
+  "version": "0.1.0",
+  "description": "First beta release",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/outgrid-framework/outgrid.git"
+  },
+  "keywords": [
+    "css",
+    "framework",
+    "sass"
+  ],
+  "author": "Simon Debbarma, Santiago Rueda Ortiz",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/outgrid-framework/outgrid/issues"
+  },
+  "homepage": "https://github.com/outgrid-framework/outgrid#readme"
+}
