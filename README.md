@@ -4,13 +4,13 @@ A CSS framework built for even faster development. Weild the power of CSS Grid i
 
 ---
 
-# Install
+## Install
 
-## CDN Link
+### CDN Link
 
-'https://cdn.jsdelivr.net/npm/outgrid-beta@0.1.0/outgrid-v0.1.0.css'
+`https://cdn.jsdelivr.net/npm/outgrid-beta@0.1.0/outgrid-v0.1.0.css`
 
-## NPM
+### NPM
 
 `npm -i outgrid-beta`
 
@@ -18,16 +18,14 @@ A CSS framework built for even faster development. Weild the power of CSS Grid i
 
 `<link rel="stylesheet" href="./node_modules/outgrid-beta/outgrid-v0.1.0.css">`
 
-## CDN
-
-`https://cdn.jsdelivr.net/npm/outgrid-beta@0.1.0/outgrid-v0.1.0.css`
-
 ---
 
 ## Docs
 
-#### WORK IN PROGRESS
+### WORK IN PROGRESS
 <img src="https://media.giphy.com/media/26gstMoYksEdQRRC0/giphy.gif" width="100%">
+
+---
 
 ## Authors
 
