@@ -8,7 +8,7 @@ A CSS framework built for even faster development. Weild the power of CSS Grid i
 
 ### CDN Link
 
-`https://cdn.jsdelivr.net/npm/outgrid-beta@0.1.4/outgrid.css`
+`https://cdn.jsdelivr.net/npm/outgrid-beta@0.1.5/outgrid.css`
 
 ### NPM
 

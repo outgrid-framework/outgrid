@@ -1,7 +1,7 @@
 {
   "name": "outgrid-beta",
-  "version": "0.1.4",
-  "description": "First beta release",
+  "version": "0.1.5",
+  "description": "The Doctor Strange of CSS Frameworks! A CSS framework built for even faster development. Weild the power of CSS Grid in your next project.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
