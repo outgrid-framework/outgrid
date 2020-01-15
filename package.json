@@ -1,6 +1,6 @@
 {
   "name": "outgrid-beta",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "First beta release",
   "main": "index.js",
   "scripts": {
